@@ -31,5 +31,5 @@ We are a development team focused on building robust mobile applications, backen
 *   **Infrastructure:** AWS, Hugging Face, Vast.ai
 
 ## 🔗 Connect with Us
-*   🌍 **Website:** [Your Main Organization Website URL]
-*   📫 **Contact:** [Your Email]
+*   🌍 **Website:** ta4tsering.com
+*   📫 **Contact:** ta3tsering@gmail.com
